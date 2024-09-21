@@ -1,0 +1,14 @@
+{
+  "name": "filesytem",
+  "version": "1.0.0",
+  "main": "read.js",
+  "scripts": {
+    "start": " node read.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fast-csv": "^5.0.1"
+  }
+}
